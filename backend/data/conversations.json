@@ -1,0 +1,14 @@
+[
+  {
+    "id": "thread-1001",
+    "title": "Project Updates",
+    "participantCount": 2,
+    "members": ["user-a", "user-b"]
+  },
+  {
+    "id": "thread-2002",
+    "title": "Team Reminders",
+    "participantCount": 3,
+    "members": ["user-c", "user-d", "user-e"]
+  }
+]

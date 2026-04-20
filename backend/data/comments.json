@@ -1,0 +1,52 @@
+[
+  {
+    "id": "msg-1",
+    "message": "Halo, ini thread pertama. Bisa bantu cek dokumen terbaru?",
+    "publishDate": "2026-04-19T08:30:00.000Z",
+    "owner": {
+      "id": "user-a",
+      "firstName": "Rina",
+      "lastName": "Pratama",
+      "email": "rina.pratama@example.test"
+    },
+    "post": "thread-1001"
+  },
+  {
+    "id": "msg-2",
+    "message": "Sudah saya cek. Saya kirim revisinya siang ini.",
+    "publishDate": "2026-04-19T08:33:00.000Z",
+    "owner": {
+      "id": "user-b",
+      "firstName": "Arif",
+      "lastName": "Nugraha",
+      "email": "arif.nugraha@example.test"
+    },
+    "post": "thread-1001"
+  },
+  {
+    "id": "msg-3",
+    "message": "Reminder: meeting jam 15:00, jangan lupa deck final.",
+    "publishDate": "2026-04-19T08:40:00.000Z",
+    "owner": {
+      "id": "user-c",
+      "firstName": "Salsa",
+      "lastName": "Anindya",
+      "email": "salsa.anindya@example.test"
+    },
+    "post": "thread-2002"
+  },
+  {
+    "id": "msg-1776599847900-790",
+    "message": "Realtime test ping",
+    "publishDate": "2026-04-19T11:57:27.900Z",
+    "owner": {
+      "id": "user-a",
+      "firstName": "Rina",
+      "lastName": "Pratama",
+      "email": "rina.pratama@example.test"
+    },
+    "post": "thread-1001",
+    "senderClientId": "client-test-a",
+    "clientMessageId": "client-test-message-a"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tag-important-asap",
+    "label": "Important ASAP",
+    "bg": "#dbeafe",
+    "text": "#1d4ed8"
+  },
+  {
+    "id": "tag-offline-meeting",
+    "label": "Offline Meeting",
+    "bg": "#fde7c7",
+    "text": "#b45309"
+  },
+  {
+    "id": "tag-virtual-meeting",
+    "label": "Virtual Meeting",
+    "bg": "#d9f0cf",
+    "text": "#3f7a2d"
+  },
+  {
+    "id": "tag-asap",
+    "label": "ASAP",
+    "bg": "#ccefe2",
+    "text": "#0f766e"
+  },
+  {
+    "id": "tag-client-related",
+    "label": "Client Related",
+    "bg": "#cfeec8",
+    "text": "#166534"
+  },
+  {
+    "id": "tag-self-task",
+    "label": "Self Task",
+    "bg": "#e6dbfb",
+    "text": "#6d28d9"
+  },
+  {
+    "id": "tag-appointments",
+    "label": "Appointments",
+    "bg": "#ead9f8",
+    "text": "#7e22ce"
+  },
+  {
+    "id": "tag-court-related",
+    "label": "Court Related",
+    "bg": "#cfeaf8",
+    "text": "#0369a1"
+  }
+]
